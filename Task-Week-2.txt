@@ -1,0 +1,16 @@
+cat. of 5 classes 
+1,2- worst
+3- neutral
+4,5 - best 
+make seminants to the data set 
+word to word
+globe  - feature extraction 
+
+technique division 
+(make ppt) 11th october 2020 
+Bag of Word  - kartik 
+TFIDF - Jayant
+Word to bag - Divyam 
+Glove - Jeevesh
+
+IEEE research paper - Divyam(Documentation)  
